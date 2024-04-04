@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Este é um projeto da [NLW Unite]().
+Este é um projeto da [NLW Unite](https://www.rocketseat.com.br/).
 
 ## Projeto
 
@@ -57,15 +57,19 @@ Este é um projeto que foi apresentado em três aulas, em cada aula pude conhece
 
 <li>NLW Unite | Aula 03
 
-    Observação:
+    - Observação:
 
-        - Em andamento.
-    
+        Nesta aula pude conhecer um exemplo de um banco de dados desenvolvido com a tecnologia de nodejs pela NLW Unite, onde irei utiliza-lá para conectar ao meu projeto de Pass In Web.
+
+    - Aprendizado:
+
+        Conhecendo um pouco mais sobre como utilizar o TypeScript, tipando um estado com as configurações de um array de objetivos. 
+
+        Conheci vários conceitos importantes do funcionamento da URL State, para armazenar na url da aplicação um estado, para o usuário poder salvar a página que está navegando e o valor do input no campo de busca, podendo até compartilhar o link. Uma boa prática na qual muitos aplicações não utilizam, como diz o professor da aula Diego Fernandes, "Persistir as opções de inputs do usuário na URL".
     
 ## Status
 
-Etapa 2/3 concluída! 👌
-
+Etapa 3/3 concluída! 👌
 
 ## Tecnologias
 
