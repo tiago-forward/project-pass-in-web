@@ -118,4 +118,6 @@ Versão mobile temporariamente indisponível!⏱
 
 ### Plugin
 
-forms -> tailwindcss
+<ul>
+    <li>Tailwindcss-forms</li>
+</ul>
